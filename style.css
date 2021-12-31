@@ -83,7 +83,7 @@ html
     border:1px solid #fff ;
     height: 4px;
 }
-.right-main-section{
+.right-main-content{
     padding: 2rem 3rem;
 
     grid-column: span 1/span 2;
