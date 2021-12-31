@@ -86,7 +86,7 @@ html
 .right-main-content{
     padding: 2rem 3rem;
 
-    grid-column: span 1/span 2;
+
 }
 .right-title{
     text-transform: uppercase;
